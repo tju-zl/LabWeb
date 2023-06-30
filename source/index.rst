@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎来到 梁舒实验室!
-==================================
+欢迎来到 多模式感知与智能决策实验室!
+========================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: 实验室简介:
+   :caption: 快速导航:
 
    about_lab
    news
