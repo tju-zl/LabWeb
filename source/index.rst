@@ -17,7 +17,7 @@
    rewards
 
 联系我们：
-==================
+========================================================
    Email:sliangresearch@163.com
 
    同济大学·嘉定校区
@@ -25,6 +25,6 @@
    电子信息与电气工程学院，控制系
 
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
